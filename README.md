@@ -5,6 +5,8 @@ A prototype **GraphRAG-based food ordering assistant** built using **Gemini 2.5 
 
 ![diagram-export-5-5-2025-5_58_19-PM](https://github.com/user-attachments/assets/9b4845a1-5ece-498f-8c62-6265099e47cf)
 
+---
+
 ![Screenshot 2025-05-05 173813](https://github.com/user-attachments/assets/9015076f-7d0c-4e99-be4f-10dddcc4ca38)
 
 ---
