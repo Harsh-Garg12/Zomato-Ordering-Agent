@@ -16,20 +16,10 @@ file_path = os.path.join(CURRENT_DIR, '.env')
 
 load_dotenv(dotenv_path=file_path)
 
-# os.environ["NEO4J_URI"] = os.getenv("NEO4J_URI")
-# os.environ["NEO4J_USERNAME"] = os.getenv("NEO4J_USERNAME")
-# os.environ["NEO4J_PASSWORD"] = os.getenv("NEO4J_PASSWORD")
-# os.environ["GEMINI_API_KEY"] = os.getenv("GEMINI_API_KEY")
-
 assert os.getenv("GEMINI_API_KEY"), "GEMINI_API_KEY not set in environment"
 assert os.getenv("NEO4J_URI"), "NEO4J_URI not set in environment"
 assert os.getenv("NEO4J_USERNAME"), "NEO4J_USERNAME not set in environment"
 assert os.getenv("NEO4J_PASSWORD"), "NEO4J_PASSWORD not set in environment"
-
-# @lru_cache
-# def get_graph():
-#   enhanced_graph = Neo4jGraph(enhanced_schema=True, timeout=600)
-#   return enhanced_graph
 
 enhanced_graph = Neo4jGraph(
   driver_config={
