@@ -1,0 +1,12 @@
+langchain_neo4j
+python-dotenv
+langchain_google_genai
+langgraph
+langchain-community
+faiss-cpu
+uvicorn
+fastapi
+openai
+numpy
+pandas
+pydantic
