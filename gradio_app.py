@@ -3,10 +3,6 @@ import json
 import os
 import requests
 import gradio as gr
-from dotenv import load_dotenv
-
-CURRENT_DIR = os.path.dirname(__file__)
-file_path = os.path.join(CURRENT_DIR, '.env')
 
 load_dotenv(dotenv_path=file_path)
 
