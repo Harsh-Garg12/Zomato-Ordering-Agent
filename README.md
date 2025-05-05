@@ -56,7 +56,7 @@ Try it out here: [Zomato Ordering Agent on Hugging Face Spaces](https://huggingf
 # Step into the agent directory
 cd zomato-agent-gemini-langchain/
 
-#install requirements
+# Install requirements
 pip install -r ./zomato_agent/requirements.txt
 
 # Run the application
