@@ -44,6 +44,7 @@ Try it out here: [Zomato Ordering Agent on Hugging Face Spaces](https://huggingf
 ├── zomato-agent-gemini-langchain/   # Core agent implementation
 │   └── ...                          # (add relevant scripts here)
 ├── Zomato_Ordering_Agent.ipynb     # Notebook to explore or test components
+├── gradio_app.py                   # Gradio frontend
 └── README.md
 ```
 
@@ -55,8 +56,14 @@ Try it out here: [Zomato Ordering Agent on Hugging Face Spaces](https://huggingf
 # Step into the agent directory
 cd zomato-agent-gemini-langchain/
 
+#install requirements
+pip install -r ./zomato_agent/requirements.txt
+
 # Run the application
 python -m zomato_agent.app
+
+# Run the gradio app
+python gradio_app.py
 ```
 
 ---
