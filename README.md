@@ -79,12 +79,14 @@ python gradio_app.py
 
 ## 📚 Dataset
 
-Contains metadata of ~400 restaurants in the NCR region including:
+Contains metadata of ~300 restaurants in the NCR region including:
 - `restaurant_name`, `address`, `phone_number`, `delivery_rating`
 - `food_name`, `type`, `rating`, `bestseller`, `price`, etc.
 
----
+Import this graph data to your neo4j instance.
 
+Dataset: https://drive.google.com/file/d/1jDrqrxnrxftpCjH7e5DoVYZqwRninQtK/view?usp=sharing
+---
 
 This project is for research and educational purposes only. If you try it out, feel free to share your feedback or raise issues!
 **If you like this project, please give a star to this repo.**
