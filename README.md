@@ -83,9 +83,9 @@ Contains metadata of ~300 restaurants in the NCR region including:
 - `restaurant_name`, `address`, `phone_number`, `delivery_rating`
 - `food_name`, `type`, `rating`, `bestseller`, `price`, etc.
 
-Import this graph data to your neo4j instance.
+Import this [graph data](https://drive.google.com/file/d/1jDrqrxnrxftpCjH7e5DoVYZqwRninQtK/view?usp=sharing)
+ to your neo4j instance.
 
-Dataset: https://drive.google.com/file/d/1jDrqrxnrxftpCjH7e5DoVYZqwRninQtK/view?usp=sharing
 ---
 
 This project is for research and educational purposes only. If you try it out, feel free to share your feedback or raise issues!
