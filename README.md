@@ -3,7 +3,7 @@
 
 A prototype **GraphRAG-based food ordering assistant** built using **Gemini 2.5 Flash**, **Neo4j AuraDB**, **LangChain**, and **LangGraph**. It enables users to place food orders conversationally by querying a knowledge graph of restaurants and dishes from the NCR region.
 
-![diagram-export-5-5-2025-5_58_19-PM](https://github.com/user-attachments/assets/9b4845a1-5ece-498f-8c62-6265099e47cf)
+![Flow_Diagram](https://github.com/user-attachments/assets/f98d73e7-4c7a-4445-a0db-dc4097ec018f)
 
 ---
 
