@@ -85,12 +85,6 @@ Contains metadata of ~400 restaurants in the NCR region including:
 
 ---
 
-## 📎 License
 
-This project is for research and educational purposes only.
-
----
-
-## 💬 Feedback
-
-If you try it out, feel free to share your feedback or raise issues!
+This project is for research and educational purposes only. If you try it out, feel free to share your feedback or raise issues!
+**If you like this project, please give a star to this repo.**
